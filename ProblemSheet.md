@@ -240,8 +240,13 @@ $ java Rotate 2 a,b,c
 c
 a
 b
-$ 
+$ java Rotate 3 a,b,c
+a
+b
+c
 ```
+
+You can assume that `n` is always between 0 and the length of the array 
 
 Hint: You might find the [String `split`](https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/lang/String.html#split(java.lang.String)) method useful for this.
 
