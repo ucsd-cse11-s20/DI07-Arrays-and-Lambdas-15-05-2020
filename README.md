@@ -1,6 +1,6 @@
 Zoom link: https://ucsd.zoom.us/j/870346269
 
-Zoom recording: COMING SOON
+Zoom recording: https://drive.google.com/file/d/1w9U7q9kwWUR88Zn_G-VyX7E2iZW80hbn/view?usp=sharing
 
 Problem sheet for this discussion: 
 
@@ -10,7 +10,10 @@ Starter code:
 
 https://github.com/ucsd-cse11-s20/DI07-Arrays-and-Lambdas-15-05-2020/releases/download/1.0/di07.zip
 
-Solution: COMING SOON
+Solutions: 
+1. https://github.com/ucsd-cse11-s20/DI07-Arrays-and-Lambdas-15-05-2020/blob/master/BatSolution.java
+2. https://github.com/ucsd-cse11-s20/DI07-Arrays-and-Lambdas-15-05-2020/blob/master/RotateSolution.java
+3. https://github.com/ucsd-cse11-s20/DI07-Arrays-and-Lambdas-15-05-2020/blob/master/RangeSolution.java
 
 Readings reviewd in this discussion:
 - [Arrays, Variables, and For-loops](https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture19.html)
